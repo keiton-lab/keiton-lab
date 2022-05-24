@@ -3,7 +3,7 @@
 My name is Hongfei, or you can call me Keiton.<br />
 I am currently learning coding by building some small games and applicaitons.
 
-- 🔭 I’m currently working on personal projects that interested me and help me get better in coding <br />
+- 🔭 I’m currently working on personal projects that is fun and help me get better in coding <br />
 - 🌱 I’m currently learning coding by doing small projects that I am interested! <br />
       - Here is the one the I am most proud of: https://github.com/keiton-lab/aim_trainer_pygame <br />
 - 👯 I’m looking to collaborate on Anyone!! <br />
