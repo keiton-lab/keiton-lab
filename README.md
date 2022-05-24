@@ -14,5 +14,7 @@ I am currently learning coding by building some small games and apps.
       - I can give your recommendations on board selections and more!  <br />
 - 📫 How to reach me <br />
       - Email! keitonguan@gmail.com <br />
-- ⚡ Fun fact: I love all kinds of board sports
+- ⚡ Fun fact: <br /> 
+      - I love all kinds of board sports, surfing/snowboard/skateboard ... <br />
+      - I love reading Japanese crime/mystery/detective novels, my favorite one is: The Devotion of Suspect X, and there are more.
 
