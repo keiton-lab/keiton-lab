@@ -1,4 +1,4 @@
-### Hi, there 👋 Thank you for visiting my Github site.
+### Hi, there 👋 Thank you for visiting my Github page.
 
 My name is Hongfei, or you can call me Keiton.<br />
 I am currently learning coding by building some small games and apps.
