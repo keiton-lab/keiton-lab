@@ -21,7 +21,7 @@ I graduated with a background in chemical engineering & data science option at t
 ### Find me 🌎
 - 📫 How to reach me <br />
       - Instagram: https://www.instagram.com/k_eitong/ <br />
-      - LinkedIn:www.linkedin.com/in/hongfei-guan 
+      - LinkedIn:www.linkedin.com/in/hongfei-guan <br />
       - YT: https://www.youtube.com/channel/UC4CweQI2hkngkYhn26pFMVg (I upload my project demos here!)
     
 ### Fun facts about me ⚡
