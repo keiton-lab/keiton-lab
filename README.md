@@ -1,11 +1,19 @@
 ### Hi, there 👋 Thank you for visiting my Github page.
 
 My name is Hongfei, or you can call me Keiton.<br />
-I am currently learning coding by building some small games and apps.
+My current goal is to start my career in the tech industry.<br />
+I graduated with a background in chemical engineering & data science option at the University of Washington, so I have experience in: <br />
+* Machine Learning
+* Statistics
+* Python
 
-- 🔭 I’m currently working on personal projects that are fun and will help me get better at coding <br />
+### What I'm focusing on 👨‍💻
 - 🌱 I’m currently learning coding by doing small projects that I am interested in! <br />
       - Here is the one the I am most proud of: https://github.com/keiton-lab/aim_trainer_pygame <br />
+
+
+
+
 - 👯 I’m looking to collaborate with Anyone!! <br />
       - Hit me up if you have any fun ideas and want to work together <br />
 - 🤔 I’m looking for help with how to become a successful software engineer. <br />
