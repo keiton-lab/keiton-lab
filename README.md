@@ -8,14 +8,14 @@ I graduated with a background in chemical engineering & data science option at t
 * Python
 
 ### What I'm focusing on 👨‍💻
-- 🌱 I’m currently learning coding by doing projects that I am interested in!  <br />
+- I’m currently learning coding by doing projects that I am interested in!  <br />
       - If you are a fan of CSGO or any FPS game, please check out this aim trainer that I developed: <br />
       - https://github.com/keiton-lab/aim_trainer_pygame <br />
 
 ### Currently seeking ideas for my next project 👂
-- 👯 I’m open to collaborate with Anyone!! <br />
+- I’m open to collaborate with Anyone!! <br />
       - Hit me up if you have any fun ideas and want to work together <br />
-- 🤔 BTW, I’m  also looking for help with how to become a successful software engineer. <br />
+- BTW, I’m  also looking for help with how to become a successful software engineer. <br />
       - Any bits of advice will be greatly appreciated! 💪🙏🙏 <br />
 
 ### Find me 🌎
