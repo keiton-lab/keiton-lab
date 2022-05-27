@@ -9,7 +9,7 @@ I graduated with a background in chemical engineering & data science option at t
 
 ### What I'm focusing on 👨‍💻
 - I’m currently learning coding by doing projects that I am interested in!  <br />
-      - If you are a fan of CSGO or any FPS game, please check out this aim trainer that I developed: <br />
+      - If you are a fan of CSGO or any FPS game, please check out this aim trainer that I made: <br />
       - https://github.com/keiton-lab/aim_trainer_pygame <br />
 
 ### Currently seeking ideas for my next project 👂
