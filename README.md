@@ -32,3 +32,4 @@ My current goal is to start my career in the tech industry. I graduated with a b
 - I love reading 🇯🇵 Japanese crime/mystery/detective novels, my favorite one is: The Devotion of Suspect X, and there are more.<br />
 - 💬 Ask me about anything snowboard-related stuff, I am a snowboard and snowboard techs enthusiast. <br />
       - I can give your recommendations on board selections and more!  <br />
+- I have a bachelor degree in Environmental Science, so I know a bit about the ecosystem in the PNW area :)
