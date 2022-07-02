@@ -1,8 +1,7 @@
 ## Hi, there 👋 Thank you for visiting my Github page.
 
 My name is Hongfei, or you can call me Keiton.<br />
-My current goal is to start my career in the tech industry.<br />
-I graduated with a background in chemical engineering & data science option at the University of Washington, so I have experience in:
+My current goal is to start my career in the tech industry. I graduated with a background in chemical engineering & data science option at the University  of Washington, so I have experience in:
 * Machine Learning
 * Statistics
 * SQL
