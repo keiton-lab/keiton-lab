@@ -10,7 +10,7 @@ My current goal is to start my career in the tech industry. I graduated from UW-
 
 ### What I'm focusing on 👨‍💻
 - I’m currently learning programming by doing projects that I am interested in!  <br />
-      - Ongoing Project: Learning Java/React.js by making a snowboard selector website! <br />
+      - Ongoing Project: Learning JavaScript and React.js by making a snowboard selector website! <br />
       - https://github.com/keiton-lab/snowboard-selector <br />
       - If you are a fan of CSGO or any FPS game, please check out this aim trainer that I made using Pygame: <br />
       - https://github.com/keiton-lab/aim_trainer_pygame <br />
